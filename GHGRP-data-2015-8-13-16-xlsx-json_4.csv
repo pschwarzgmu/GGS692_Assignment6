@@ -1,4 +1,4 @@
-Facility Name,Latitude,Longitude,Geometry,Sectors_Industry_Type,Total reported direct emissions
+Facility_Name,Latitude,Longitude,Geometry,Sectors_Industry_Type,Total reported direct emissions
 121 REGIONAL DISPOSAL FACILITY,33.9814,-96.53143,"{""type"":""Point"",""coordinates"":[-96.53143,33.9814]}",Waste,199011.75
 15-18565/15-18662,37.219099,-83.156046,"{""type"":""Point"",""coordinates"":[-83.156046,37.219099]}",Other,118204.5
 15-19015,37.236617,-83.18126,"{""type"":""Point"",""coordinates"":[-83.18126,37.236617]}",Other,55872.5
@@ -438,7 +438,7 @@ Ames,42.0247,-93.6069,"{""type"":""Point"",""coordinates"":[-93.6069,42.0247]}",
 "Amsted Rail Company, Inc.",38.70316,-90.158809,"{""type"":""Point"",""coordinates"":[-90.158809,38.70316]}",Metals,27568.696
 Anadarko,35.0847,-98.23,"{""type"":""Point"",""coordinates"":[-98.23,35.0847]}",Power Plants,460345.224
 Anaheim Combustion Turbine,33.8539,-117.8561,"{""type"":""Point"",""coordinates"":[-117.8561,33.8539]}",Power Plants,30844.336
-"Analog Devices, Inc./ Wilmington Manufacturing",42.53073,-71.1494,"{""type"":""Point"",""coordinates"":[-71.1494,42.53073]}",Other,32999.054576
+"Analog Devices, Inc./ Wilmington Manufacturing",42.53073,-71.1494,"{""type"":""Point"",""coordinates"":[-71.1494,42.53073]}",Other,32999.05458
 Anchor Glass Container - Plant 41,42.120763,-76.813168,"{""type"":""Point"",""coordinates"":[-76.813168,42.120763]}",Minerals,99841.976
 Anchor Glass Container Corporation - Plant 14,32.586745,-83.591784,"{""type"":""Point"",""coordinates"":[-83.591784,32.586745]}",Minerals,106647.756
 Anchor Glass Container Corporation - Plant 15,35.449212,-95.968869,"{""type"":""Point"",""coordinates"":[-95.968869,35.449212]}",Minerals,93428.712
@@ -449,7 +449,7 @@ Anclote Power Plant,28.1844,-82.7887,"{""type"":""Point"",""coordinates"":[-82.7
 Anderson Regional Landfill,34.5725,-82.46064,"{""type"":""Point"",""coordinates"":[-82.46064,34.5725]}",Waste,125252.5
 Angus Anson,43.6033,-96.6369,"{""type"":""Point"",""coordinates"":[-96.6369,43.6033]}",Power Plants,72991.474
 Anheuser-Busch LLC. - St. Louis Brewery,38.5961,-90.2128,"{""type"":""Point"",""coordinates"":[-90.2128,38.5961]}","Other,Suppliers of CO2",137119.622
-Anna Platform,60.97640050572,-151.3151066962,"{""type"":""Point"",""coordinates"":[-151.3151066962,60.97640050572]}",Petroleum and Natural Gas Systems,23265.974
+Anna Platform,60.97640051,-151.3151067,"{""type"":""Point"",""coordinates"":[-151.3151066962,60.97640050572]}",Petroleum and Natural Gas Systems,23265.974
 Anoka Municipal Regional Landfill,45.23633,-93.43207,"{""type"":""Point"",""coordinates"":[-93.43207,45.23633]}",Waste,35980.25
 Anson County Waste Management Facility,35.0011,-80.16827,"{""type"":""Point"",""coordinates"":[-80.16827,35.0011]}",Waste,172306
 Antelope Compressor Station,42.797116,-105.312477,"{""type"":""Point"",""coordinates"":[-105.312477,42.797116]}",Petroleum and Natural Gas Systems,24395.408
@@ -514,7 +514,7 @@ Arlington Compressor Station,41.682318,-106.11105,"{""type"":""Point"",""coordin
 Arlington Landfill,32.80025,-97.10858,"{""type"":""Point"",""coordinates"":[-97.10858,32.80025]}",Waste,233872.95
 Arlington Valley Energy Facility,33.3417,-112.8897,"{""type"":""Point"",""coordinates"":[-112.8897,33.3417]}",Power Plants,709236.104
 Armagh Compressor Station,40.4319,-79.085,"{""type"":""Point"",""coordinates"":[-79.085,40.4319]}",Petroleum and Natural Gas Systems,30712.496
-Armstrong Gas Plant,29.133889,-97.03916100000001,"{""type"":""Point"",""coordinates"":[-97.03916100000001,29.133889]}","Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",180997.386
+Armstrong Gas Plant,29.133889,-97.039161,"{""type"":""Point"",""coordinates"":[-97.03916100000001,29.133889]}","Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",180997.386
 "Armstrong Power, LLC",40.6383,-79.3503,"{""type"":""Point"",""coordinates"":[-79.3503,40.6383]}",Power Plants,663274.98
 Armstrong World Industries Inc,32.774761,-83.651605,"{""type"":""Point"",""coordinates"":[-83.651605,32.774761]}",Other,75037.168
 Arnold Engineering Development Center,35.38,-86.0533,"{""type"":""Point"",""coordinates"":[-86.0533,35.38]}",Other,28446.932
@@ -523,7 +523,7 @@ Arrowhead Landfill,32.435579,-87.437723,"{""type"":""Point"",""coordinates"":[-8
 Arroyo Grande Production Facility,35.18175,-120.62356,"{""type"":""Point"",""coordinates"":[-120.62356,35.18175]}",Petroleum and Natural Gas Systems,75164.498
 Arsenal Hill Power Plant,32.5181,-93.7611,"{""type"":""Point"",""coordinates"":[-93.7611,32.5181]}",Power Plants,1360350.656
 Arthur Kill,40.5915,-74.2027,"{""type"":""Point"",""coordinates"":[-74.2027,40.5915]}",Power Plants,636058.567
-Arvada Generation Station,44.693959,-105.9777507593622,"{""type"":""Point"",""coordinates"":[-105.9777507593622,44.693959]}",Power Plants,130.8
+Arvada Generation Station,44.693959,-105.9777508,"{""type"":""Point"",""coordinates"":[-105.9777507593622,44.693959]}",Power Plants,130.8
 Arvah B Hopkins,30.4522,-84.4,"{""type"":""Point"",""coordinates"":[-84.4,30.4522]}",Power Plants,653094.58
 Asbury,37.3596,-94.5913,"{""type"":""Point"",""coordinates"":[-94.5913,37.3596]}",Power Plants,1316295.332
 Ascend (Decatur Plant),34.6339,-87.0244,"{""type"":""Point"",""coordinates"":[-87.0244,34.6339]}","Chemicals,Suppliers of CO2",626565.752
@@ -548,7 +548,7 @@ Augusta Compressor Facility,40.690983,-80.963356,"{""type"":""Point"",""coordina
 Auriga Polymers Inc.,35.027817,-81.87896,"{""type"":""Point"",""coordinates"":[-81.87896,35.027817]}",Other,88943.816
 Aux Sable Midstream - Palermo Conditioning Plant,48.288685,-102.223876,"{""type"":""Point"",""coordinates"":[-102.223876,48.288685]}","Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",12927.242
 Aurora,41.8151,-88.2265,"{""type"":""Point"",""coordinates"":[-88.2265,41.8151]}",Power Plants,30161.988
-Avago Technologies,40.5236,-105.02021,"{""type"":""Point"",""coordinates"":[-105.02021,40.5236]}",Other,298566.308578
+Avago Technologies,40.5236,-105.02021,"{""type"":""Point"",""coordinates"":[-105.02021,40.5236]}",Other,298566.3086
 Avalon CGF 1,,,,Petroleum and Natural Gas Systems,26758.1
 Avalon CGF 2,,,,Petroleum and Natural Gas Systems,34981.168
 Avalon CGF 3,,,,Petroleum and Natural Gas Systems,33359.624
@@ -573,7 +573,7 @@ BAKERSFIELD CITY LANDFILL,35.4142,-118.9491,"{""type"":""Point"",""coordinates""
 BAKERSFIELD METROPOLITAN SANITARY LANDFILL,35.3436,-118.7573,"{""type"":""Point"",""coordinates"":[-118.7573,35.3436]}",Waste,44949.5
 BALDWIN COUNTY SOLID WASTE,30.443309,-87.774251,"{""type"":""Point"",""coordinates"":[-87.774251,30.443309]}",Waste,201495.5
 BALL STATE UNIVERSITY,40.19833,-85.40894,"{""type"":""Point"",""coordinates"":[-85.40894,40.19833]}",Other,29501.68
-BARBER CREEK,44.168462,-105.8914953739602,"{""type"":""Point"",""coordinates"":[-105.8914953739602,44.168462]}",Power Plants,76.7
+BARBER CREEK,44.168462,-105.8914954,"{""type"":""Point"",""coordinates"":[-105.8914953739602,44.168462]}",Power Plants,76.7
 "BARGATH, INC- HYRUP PROD FACILITY",39.369139,-108.06329,"{""type"":""Point"",""coordinates"":[-108.06329,39.369139]}",Petroleum and Natural Gas Systems,16342.188
 "BARGATH, INC.- PARACHUTE",39.487297,-108.111356,"{""type"":""Point"",""coordinates"":[-108.111356,39.487297]}","Petroleum and Natural Gas Systems,Suppliers of CO2",381504.598
 BARRICK WESTERN 102 POWER PLANT,39.56018,-119.51071,"{""type"":""Point"",""coordinates"":[-119.51071,39.56018]}",Power Plants,142445.064
@@ -679,7 +679,7 @@ BP Husky Refining LLC,41.6786,-83.4539,"{""type"":""Point"",""coordinates"":[-83
 BP NAPERVILLE COMPLEX,41.81083,-88.14837,"{""type"":""Point"",""coordinates"":[-88.14837,41.81083]}",Other,57638.832
 BP Whiting Business Unit,41.6703,-87.4803,"{""type"":""Point"",""coordinates"":[-87.4803,41.6703]}","Chemicals,Other,Petroleum Product Suppliers,Power Plants,Refineries",4829511.088
 BPE CS Prairie Dog Booster (Ten Acre),44.9317528,-106.8783444,"{""type"":""Point"",""coordinates"":[-106.8783444,44.9317528]}",Petroleum and Natural Gas Systems,3355.288
-BPE GPRP Garden Creek,47.8502292405,-103.179836665,"{""type"":""Point"",""coordinates"":[-103.179836665,47.8502292405]}",Petroleum and Natural Gas Systems,82883.908
+BPE GPRP Garden Creek,47.85022924,-103.1798367,"{""type"":""Point"",""coordinates"":[-103.179836665,47.8502292405]}",Petroleum and Natural Gas Systems,82883.908
 BPE GPRP Grasslands Gas Plant,47.59043,-104.0005,"{""type"":""Point"",""coordinates"":[-104.0005,47.59043]}","Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Suppliers of CO2",83844.436
 BPE GPRP Stateline,48.22687,-103.943638,"{""type"":""Point"",""coordinates"":[-103.943638,48.22687]}",Petroleum and Natural Gas Systems,68892.51
 BPXA CENTRAL COMPRESSOR PLANT,70.320033,-148.500179,"{""type"":""Point"",""coordinates"":[-148.500179,70.320033]}",Petroleum and Natural Gas Systems,2767896.714
@@ -837,7 +837,7 @@ Billy Wright Landfill,37.0388,-120.9729,"{""type"":""Point"",""coordinates"":[-1
 Binghamton Cogen Plant,42.1073,-75.9283,"{""type"":""Point"",""coordinates"":[-75.9283,42.1073]}",Power Plants,18212.032
 Birchwood Power Facility,38.2667,-77.3147,"{""type"":""Point"",""coordinates"":[-77.3147,38.2667]}",Power Plants,549487.562
 Bird Canyon Compressor Station,42.2833,-110.0238,"{""type"":""Point"",""coordinates"":[-110.0238,42.2833]}",Petroleum and Natural Gas Systems,70543.884
-Bison Treating Facility,44.1681565735194,-105.842491302271,"{""type"":""Point"",""coordinates"":[-105.842491302271,44.1681565735194]}",Petroleum and Natural Gas Systems,329160.83
+Bison Treating Facility,44.16815657,-105.8424913,"{""type"":""Point"",""coordinates"":[-105.842491302271,44.1681565735194]}",Petroleum and Natural Gas Systems,329160.83
 Black Dog,44.8108,-93.2501,"{""type"":""Point"",""coordinates"":[-93.2501,44.8108]}",Power Plants,772698.57
 Black Hawk Central Production Facility,29.118648,-97.399969,"{""type"":""Point"",""coordinates"":[-97.399969,29.118648]}",Petroleum and Natural Gas Systems,90130.86
 Black Hawk Northeast Central Delivery Point,29.2675,-97.38819,"{""type"":""Point"",""coordinates"":[-97.38819,29.2675]}",Petroleum and Natural Gas Systems,55037.692
@@ -871,7 +871,7 @@ Boeing Commercial Airplanes - Everett,47.919437,-122.272815,"{""type"":""Point""
 Boeing-St. Louis,38.741557,-90.341893,"{""type"":""Point"",""coordinates"":[-90.341893,38.741557]}",Other,27218.648
 Boldman NG Liquids Extraction Facility,37.500225,-82.589269,"{""type"":""Point"",""coordinates"":[-82.589269,37.500225]}",Petroleum and Natural Gas Systems,2139.442
 Bolster Compressor Station,44.1864,-106.1622,"{""type"":""Point"",""coordinates"":[-106.1622,44.1864]}",Petroleum and Natural Gas Systems,623.248
-Bombsite-Nichols Compressor Station,44.2182932206393,-106.060932820844,"{""type"":""Point"",""coordinates"":[-106.060932820844,44.2182932206393]}",Petroleum and Natural Gas Systems,12419.704
+Bombsite-Nichols Compressor Station,44.21829322,-106.0609328,"{""type"":""Point"",""coordinates"":[-106.060932820844,44.2182932206393]}",Petroleum and Natural Gas Systems,12419.704
 Bon L Manufacturing Company,36.20416,-85.94222,"{""type"":""Point"",""coordinates"":[-85.94222,36.20416]}",Metals,31005.928
 Bonanza,40.0864,-109.2844,"{""type"":""Point"",""coordinates"":[-109.2844,40.0864]}",Power Plants,3378772.102
 Bonanza Creek Energy -  Dorcheat Plant,33.187389,-93.332417,"{""type"":""Point"",""coordinates"":[-93.332417,33.187389]}",Petroleum and Natural Gas Systems,36485.412
@@ -1340,7 +1340,7 @@ CUMBERLAND COUNTY IMPROVEMENT AUTHORITY SWC,39.45187,-75.0998,"{""type"":""Point
 CUYAHOGA REGIONAL SANITARY LANDFILL,41.3748,-81.47587,"{""type"":""Point"",""coordinates"":[-81.47587,41.3748]}",Waste,11832.25
 CVB No 1,,,,Other,245546
 "CWMI, KHF (MSW LANDFILL B-19)",35.96047,-120.00855,"{""type"":""Point"",""coordinates"":[-120.00855,35.96047]}",Waste,47171.95
-CYPRESS SEMICONDUCTOR MINNESOTA INC,44.84786,-93.23745,"{""type"":""Point"",""coordinates"":[-93.23745,44.84786]}",Other,114537.6494208
+CYPRESS SEMICONDUCTOR MINNESOTA INC,44.84786,-93.23745,"{""type"":""Point"",""coordinates"":[-93.23745,44.84786]}",Other,114537.6494
 CYTEC INDUSTRIES INC,39.35933,-81.30965,"{""type"":""Point"",""coordinates"":[-81.30965,39.35933]}",Chemicals,36085.964
 Cabin Creek Compressor Station,46.61184,-104.4203,"{""type"":""Point"",""coordinates"":[-104.4203,46.61184]}",Petroleum and Natural Gas Systems,25374.306
 Cabrillo Power I Encina Power Station,33.1408,-117.3342,"{""type"":""Point"",""coordinates"":[-117.3342,33.1408]}",Power Plants,466484.368
@@ -2364,7 +2364,7 @@ FRUIT OF THE LOOM - JAMESTOWN,37.011721,-85.079223,"{""type"":""Point"",""coordi
 FULLERTON GAS PLANT,32.381672,-102.788063,"{""type"":""Point"",""coordinates"":[-102.788063,32.381672]}",Petroleum and Natural Gas Systems,148707.7497
 FULTON COUNTY DEPT OF SOLID WASTE,43.01391,-74.47798,"{""type"":""Point"",""coordinates"":[-74.47798,43.01391]}",Waste,17503.6
 Fairchild Semiconductor,41.1435,-75.89327,"{""type"":""Point"",""coordinates"":[-75.89327,41.1435]}",Other,35014.23973
-Fairchild Semiconductor,43.640687,-70.325903,"{""type"":""Point"",""coordinates"":[-70.325903,43.640687]}",Other,33404.309171
+Fairchild Semiconductor,43.640687,-70.325903,"{""type"":""Point"",""coordinates"":[-70.325903,43.640687]}",Other,33404.30917
 Fairchild Semiconductor,40.58775,-111.96951,"{""type"":""Point"",""coordinates"":[-111.96951,40.58775]}",Other,50769.554
 "Fairless Energy, LLC",40.1464,-74.7406,"{""type"":""Point"",""coordinates"":[-74.7406,40.1464]}",Power Plants,2452328.008
 Fairmead Solid Waste Disposal Site,37.061875,-120.202501,"{""type"":""Point"",""coordinates"":[-120.202501,37.061875]}",Waste,22243.75
@@ -2410,7 +2410,7 @@ Flint Hills Resources Pine Bend Refinery,44.7684,-93.0406,"{""type"":""Point"","
 "Flint Hills Resources Port Arthur, LLC",29.892778,-93.973333,"{""type"":""Point"",""coordinates"":[-93.973333,29.892778]}",Chemicals,836519.144
 Florida River Gas Processing Facility,37.15639,-107.77978,"{""type"":""Point"",""coordinates"":[-107.77978,37.15639]}",Petroleum and Natural Gas Systems,146526.464
 Florida State University,30.442663,-84.29763,"{""type"":""Point"",""coordinates"":[-84.29763,30.442663]}",Other,26858.448
-Flying Creek-Bridge Draw Compressor Station,44.2827911190611,-106.158204560014,"{""type"":""Point"",""coordinates"":[-106.158204560014,44.2827911190611]}",Petroleum and Natural Gas Systems,19401.976
+Flying Creek-Bridge Draw Compressor Station,44.28279112,-106.1582046,"{""type"":""Point"",""coordinates"":[-106.158204560014,44.2827911190611]}",Petroleum and Natural Gas Systems,19401.976
 "Foley Cellulose, LLC",30.068694,-83.52375,"{""type"":""Point"",""coordinates"":[-83.52375,30.068694]}","Pulp and Paper,Waste",308783.264
 Foothills Environmental,35.914488,-81.593527,"{""type"":""Point"",""coordinates"":[-81.593527,35.914488]}",Waste,77548.75
 Ford Motor Company - Chicago Assembly Plant,41.66501,-87.56084,"{""type"":""Point"",""coordinates"":[-87.56084,41.66501]}",Other,51637.756
@@ -2553,9 +2553,9 @@ GILLETTE CO,42.34512,-71.05441,"{""type"":""Point"",""coordinates"":[-71.05441,4
 GLAXOSMITHKLINE KING OF PRUSSIA FAC,40.078922,-75.33297,"{""type"":""Point"",""coordinates"":[-75.33297,40.078922]}",Chemicals,24694.748
 GLEN\S SANITARY LANDFILL,44.786194,-85.845963,"{""type"":""Point"",""coordinates"":[-85.845963,44.786194]}",Waste,57121.892
 GLOBAL TUNGSTEN & POWDERS CORP,41.786389,-76.445278,"{""type"":""Point"",""coordinates"":[-76.445278,41.786389]}",Metals,43066.686
-GLOBALFOUNDRIES U.S. 2 LLC - Vermont Facility,44.481636,-73.090622,"{""type"":""Point"",""coordinates"":[-73.090622,44.481636]}",Other,298114.337242
-GLOBALFOUNDRIES U.S. Inc. Fab 8,42.970089,-73.75437,"{""type"":""Point"",""coordinates"":[-73.75437,42.970089]}",Other,152328.8860039
-GLOBALFOUNDRIES US2 LLC East Fishkill Facility,41.542325,-73.819243,"{""type"":""Point"",""coordinates"":[-73.819243,41.542325]}",Other,153678.5940985
+GLOBALFOUNDRIES U.S. 2 LLC - Vermont Facility,44.481636,-73.090622,"{""type"":""Point"",""coordinates"":[-73.090622,44.481636]}",Other,298114.3372
+GLOBALFOUNDRIES U.S. Inc. Fab 8,42.970089,-73.75437,"{""type"":""Point"",""coordinates"":[-73.75437,42.970089]}",Other,152328.886
+GLOBALFOUNDRIES US2 LLC East Fishkill Facility,41.542325,-73.819243,"{""type"":""Point"",""coordinates"":[-73.819243,41.542325]}",Other,153678.5941
 GLOBE METALLURGICAL,32.379512,-86.992948,"{""type"":""Point"",""coordinates"":[-86.992948,32.379512]}",Metals,196293.342
 GLOBE METALLURGICAL INC,43.12195,-79.044518,"{""type"":""Point"",""coordinates"":[-79.044518,43.12195]}",Metals,208598.096
 GLOBE METALLURGICAL INC. (0684000105),39.58386,-81.68042,"{""type"":""Point"",""coordinates"":[-81.68042,39.58386]}",Metals,298907.592
@@ -2687,7 +2687,7 @@ Geisinger Medical Center,40.96576,-76.60366,"{""type"":""Point"",""coordinates""
 Gen J M Gavin,38.9347,-82.1158,"{""type"":""Point"",""coordinates"":[-82.1158,38.9347]}",Power Plants,1.3823193866E7
 General Cable,41.723037,-72.239424,"{""type"":""Point"",""coordinates"":[-72.239424,41.723037]}",Other,15534.488
 General Electric Aviation,42.45,-70.9739,"{""type"":""Point"",""coordinates"":[-70.9739,42.45]}",Other,93329.824
-General Motors Components Holdings LLC,40.45896,-86.10355,"{""type"":""Point"",""coordinates"":[-86.10355,40.45896]}",Other,13876.697197
+General Motors Components Holdings LLC,40.45896,-86.10355,"{""type"":""Point"",""coordinates"":[-86.10355,40.45896]}",Other,13876.6972
 General Motors LLC Orion Assembly,42.7189,-83.25944,"{""type"":""Point"",""coordinates"":[-83.25944,42.7189]}",Other,31933.584
 General Motors LLC Wentzville,38.813792,-90.820376,"{""type"":""Point"",""coordinates"":[-90.820376,38.813792]}",Other,85606.428
 General Motors Spring Hill Manufacturing,35.71755,-86.97362,"{""type"":""Point"",""coordinates"":[-86.97362,35.71755]}",Other,22033.768
@@ -2870,7 +2870,7 @@ HANSON PERMANENTE CEMENT,37.320078,-122.091012,"{""type"":""Point"",""coordinate
 HARBOR COGENERATION PLANT,33.77695,-118.23042,"{""type"":""Point"",""coordinates"":[-118.23042,33.77695]}",Power Plants,17251.836
 HARFORD WASTE DISPOSAL CENTER,39.6395,-76.2971,"{""type"":""Point"",""coordinates"":[-76.2971,39.6395]}",Waste,68357.5
 HAROLD J LANDRY LANDFILL,29.6933,-91.2258,"{""type"":""Point"",""coordinates"":[-91.2258,29.6933]}",Waste,106014.75
-HARTZOG,43.773522,-105.78076765,"{""type"":""Point"",""coordinates"":[-105.78076765,43.773522]}",Power Plants,715.248
+HARTZOG,43.773522,-105.7807677,"{""type"":""Point"",""coordinates"":[-105.78076765,43.773522]}",Power Plants,715.248
 HASTINGS LANDFILL,40.585363,-98.389687,"{""type"":""Point"",""coordinates"":[-98.389687,40.585363]}",Waste,46526.85
 HASTINGS SANITARY LANDFILL,42.68109,-85.297807,"{""type"":""Point"",""coordinates"":[-85.297807,42.68109]}",Waste,6702.95
 "HAVERHILL COKE COMPANY, LLC",38.60056,-82.825,"{""type"":""Point"",""coordinates"":[-82.825,38.60056]}",Metals,879391.352
@@ -3058,7 +3058,7 @@ Hiland Partners Bakken Gathering Plant,47.790853,-104.264714,"{""type"":""Point"
 Hiland Partners Norse Gas Plant,48.688443,-102.92023,"{""type"":""Point"",""coordinates"":[-102.92023,48.688443]}",Petroleum and Natural Gas Systems,59076.592
 Hiland Partners Watford City Gas Plant,47.92182,-103.77954,"{""type"":""Point"",""coordinates"":[-103.77954,47.92182]}","Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",113957.17
 "Hilcorp Alaska, LLC Kenai Gas Field Pad 14-6",60.475119,-151.27375,"{""type"":""Point"",""coordinates"":[-151.27375,60.475119]}",Petroleum and Natural Gas Systems,36680.512
-Hilight-Reno Junction Gas Plant,43.8414763490387,-105.362308513496,"{""type"":""Point"",""coordinates"":[-105.362308513496,43.8414763490387]}","Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",75435.674
+Hilight-Reno Junction Gas Plant,43.84147635,-105.3623085,"{""type"":""Point"",""coordinates"":[-105.362308513496,43.8414763490387]}","Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",75435.674
 Hillabee Energy Center,33,-85.9031,"{""type"":""Point"",""coordinates"":[-85.9031,33]}",Power Plants,1942841.252
 Hillburn Gas Turbine,41.1269,-74.1653,"{""type"":""Point"",""coordinates"":[-74.1653,41.1269]}",Power Plants,128.9
 Hillside Landfill,33.580772,-96.534544,"{""type"":""Point"",""coordinates"":[-96.534544,33.580772]}",Waste,14234.5
@@ -3084,7 +3084,7 @@ Holtsville Facility,40.8153,-73.0664,"{""type"":""Point"",""coordinates"":[-73.0
 Homer City,40.511,-79.1968,"{""type"":""Point"",""coordinates"":[-79.1968,40.511]}",Power Plants,8829045.558
 "Honda Manufacturing of Indiana, LLC",39.36738,-85.542151,"{""type"":""Point"",""coordinates"":[-85.542151,39.36738]}",Other,22173.516
 "Honda of America Mfg., Inc.",40.278217,-83.507965,"{""type"":""Point"",""coordinates"":[-83.507965,40.278217]}",Other,110380.174
-Honeywell Aerospace - Plymouth,44.99242,-93.433877,"{""type"":""Point"",""coordinates"":[-93.433877,44.99242]}",Other,39695.0564171
+Honeywell Aerospace - Plymouth,44.99242,-93.433877,"{""type"":""Point"",""coordinates"":[-93.433877,44.99242]}",Other,39695.05642
 Honeywell Aerospace - South Bend,41.6846,-86.299087,"{""type"":""Point"",""coordinates"":[-86.299087,41.6846]}",Other,25079.606
 Honeywell International Inc. - Chesterfield Plant,37.33627,-77.28874,"{""type"":""Point"",""coordinates"":[-77.28874,37.33627]}",Other,49418.096
 Honeywell Resins & Chemicals LLC,40.0067,-75.0686,"{""type"":""Point"",""coordinates"":[-75.0686,40.0067]}",Chemicals,153432.77
@@ -3154,7 +3154,7 @@ ILLINOIS CEMENT CO,41.329483,-89.081612,"{""type"":""Point"",""coordinates"":[-8
 ILLINOIS CORN PROCESSING LLC,40.556501,-89.666235,"{""type"":""Point"",""coordinates"":[-89.666235,40.556501]}",Other,131067.702
 ILLINOIS LANDFILL INC,40.442376,-87.647368,"{""type"":""Point"",""coordinates"":[-87.647368,40.442376]}",Waste,58983.45
 ILLINOIS STATE UNIVERSITY,40.51044,-88.99287,"{""type"":""Point"",""coordinates"":[-88.99287,40.51044]}",Other,27095.248
-"IM Flash Technologies, LLC",40.429165,-111.823859,"{""type"":""Point"",""coordinates"":[-111.823859,40.429165]}",Other,325215.6972677
+"IM Flash Technologies, LLC",40.429165,-111.823859,"{""type"":""Point"",""coordinates"":[-111.823859,40.429165]}",Other,325215.6973
 IMCO RECYCLING OF OHIO LLC,40.36884,-81.34657,"{""type"":""Point"",""coordinates"":[-81.34657,40.36884]}",Metals,69893.636
 IMERYS CARBONATES LLC,33.16445,-86.29805,"{""type"":""Point"",""coordinates"":[-86.29805,33.16445]}",Other,46429.276
 IMERYS Deepstep Road Plant,33.025747,-82.956227,"{""type"":""Point"",""coordinates"":[-82.956227,33.025747]}",Other,32976.272
@@ -3186,10 +3186,10 @@ INGEVITY SC LLC CHARLESTON CHEMICAL PLANT,32.89778,-79.97299,"{""type"":""Point"
 INGEVITY VIRGINIA CORPORATION - CARBON PLANT,36.95,-89.066111,"{""type"":""Point"",""coordinates"":[-89.066111,36.95]}",Chemicals,72968.276
 INGREDION INCORPORATED,41.96867,-91.66646,"{""type"":""Point"",""coordinates"":[-91.66646,41.96867]}",Other,126140.024
 INMETCO,40.859451,-80.258591,"{""type"":""Point"",""coordinates"":[-80.258591,40.859451]}",Metals,39129.992
-INTEL - RIO RANCHO FACILITY,35.23133,-106.65608,"{""type"":""Point"",""coordinates"":[-106.65608,35.23133]}",Other,121799.4424546
-INTEL CORPORATION,33.24591,-111.88146,"{""type"":""Point"",""coordinates"":[-111.88146,33.24591]}",Other,298357.917165
+INTEL - RIO RANCHO FACILITY,35.23133,-106.65608,"{""type"":""Point"",""coordinates"":[-106.65608,35.23133]}",Other,121799.4425
+INTEL CORPORATION,33.24591,-111.88146,"{""type"":""Point"",""coordinates"":[-111.88146,33.24591]}",Other,298357.9172
 INTEL CORPORATION ALOHA CAMPUS,45.49374,-122.88434,"{""type"":""Point"",""coordinates"":[-122.88434,45.49374]}",Other,28999.0608
-INTEL CORPORATION RONLER ACRES CAMPUS,45.543333,-122.917222,"{""type"":""Point"",""coordinates"":[-122.917222,45.543333]}",Other,295072.6603993
+INTEL CORPORATION RONLER ACRES CAMPUS,45.543333,-122.917222,"{""type"":""Point"",""coordinates"":[-122.917222,45.543333]}",Other,295072.6604
 INTERNATIONAL MATEX TANK TERMINALS - ST ROSE TERMINAL,29.942846,-90.331241,"{""type"":""Point"",""coordinates"":[-90.331241,29.942846]}",Other,25281.448
 INTERNATIONAL PAPER - BOGALUSA MILL,30.7766,-89.8577,"{""type"":""Point"",""coordinates"":[-89.8577,30.7766]}",Pulp and Paper,106779.326
 INTERNATIONAL PAPER - HENDERSON MILL,37.81649,-87.58793,"{""type"":""Point"",""coordinates"":[-87.58793,37.81649]}",Pulp and Paper,48145.268
@@ -3243,7 +3243,7 @@ Indian River,38.5857,-75.2341,"{""type"":""Point"",""coordinates"":[-75.2341,38.
 Indiana Harbor Coke Company,41.65442,-87.44691,"{""type"":""Point"",""coordinates"":[-87.44691,41.65442]}",Metals,1145804.116
 "Indiantown Cogeneration, LP",27.0393,-80.5144,"{""type"":""Point"",""coordinates"":[-80.5144,27.0393]}",Power Plants,768023.58
 Indigo Generation Facility,33.9114,-116.5533,"{""type"":""Point"",""coordinates"":[-116.5533,33.9114]}",Power Plants,35505.32
-Infineon Technologies Americas Corp,33.49885,-117.1643,"{""type"":""Point"",""coordinates"":[-117.1643,33.49885]}",Other,40108.090773
+Infineon Technologies Americas Corp,33.49885,-117.1643,"{""type"":""Point"",""coordinates"":[-117.1643,33.49885]}",Other,40108.09077
 Ingredion Inc.,39.125992,-94.57328,"{""type"":""Point"",""coordinates"":[-94.57328,39.125992]}",Other,30334.136
 Ingredion Incorporated,37.90971,-121.26342,"{""type"":""Point"",""coordinates"":[-121.26342,37.90971]}",Other,76344.812
 Ingredion Incorporated Argo Plant,41.7775,-87.8233,"{""type"":""Point"",""coordinates"":[-87.8233,41.7775]}",Other,849787.696
@@ -3284,7 +3284,7 @@ International Paper-Prattville Mill,32.4167,-86.4667,"{""type"":""Point"",""coor
 International Paper-Riegelwood,34.3528,-78.2028,"{""type"":""Point"",""coordinates"":[-78.2028,34.3528]}","Pulp and Paper,Waste",401493.576
 International Paper-Riverdale Mill,32.425,-86.8694,"{""type"":""Point"",""coordinates"":[-86.8694,32.425]}","Pulp and Paper,Waste",356965.41
 International Station Power Plant,61.168307,-149.908115,"{""type"":""Point"",""coordinates"":[-149.908115,61.168307]}",Power Plants,510142.628
-Intersil Corporation,28.03028,-80.60138,"{""type"":""Point"",""coordinates"":[-80.60138,28.03028]}",Other,16353.301167
+Intersil Corporation,28.03028,-80.60138,"{""type"":""Point"",""coordinates"":[-80.60138,28.03028]}",Other,16353.30117
 Inver Hills Generating Plant,44.781,-93.042,"{""type"":""Point"",""coordinates"":[-93.042,44.781]}",Power Plants,7558.262
 Ironhorse Complex Gas Plant,40.036269,-109.45371,"{""type"":""Point"",""coordinates"":[-109.45371,40.036269]}",Petroleum and Natural Gas Systems,131472.512
 "Ironside Energy, LLC",41.65966,-87.46603,"{""type"":""Point"",""coordinates"":[-87.46603,41.65966]}",Power Plants,396797.614
@@ -3306,7 +3306,7 @@ J R SIMPLOT CO,46.837778,-119.176389,"{""type"":""Point"",""coordinates"":[-119.
 J R SIMPLOT COMPANY,36.551156,-120.113717,"{""type"":""Point"",""coordinates"":[-120.113717,36.551156]}",Chemicals,18703.27
 J R Whiting,41.7917,-83.4486,"{""type"":""Point"",""coordinates"":[-83.4486,41.7917]}",Power Plants,1917971.682
 J Robert Massengale Generating Station,33.6039,-101.8408,"{""type"":""Point"",""coordinates"":[-101.8408,33.6039]}",Power Plants,17666.284
-J T Deely,29.3072,-98.3228,"{""type"":""Point"",""coordinates"":[-98.3228,29.3072]}",Power Plants,3539796.9951982
+J T Deely,29.3072,-98.3228,"{""type"":""Point"",""coordinates"":[-98.3228,29.3072]}",Power Plants,3539796.995
 J. C. Elliott Landfill and Transfer Station,27.703602,-97.447277,"{""type"":""Point"",""coordinates"":[-97.447277,27.703602]}",Waste,87434.25
 J. R. Simplot Co.,47.131732,-119.18926,"{""type"":""Point"",""coordinates"":[-119.18926,47.131732]}","Other,Waste",40927.71
 J.B. Sims Generation Station,43.071111,-86.233889,"{""type"":""Point"",""coordinates"":[-86.233889,43.071111]}",Power Plants,410540.128
@@ -3369,7 +3369,7 @@ James Lake Gas Plant,31.9636,-102.6018,"{""type"":""Point"",""coordinates"":[-10
 James River,37.1086,-93.2592,"{""type"":""Point"",""coordinates"":[-93.2592,37.1086]}",Power Plants,249271.832
 James Valley Ethanol LLC dba POET Biorefining - Groton,45.453963,-98.137741,"{""type"":""Point"",""coordinates"":[-98.137741,45.453963]}",Other,91947.704
 Jameson Gas Plant,32.0488,-100.6821,"{""type"":""Point"",""coordinates"":[-100.6821,32.0488]}","Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",104049.698
-Jaq Compressor Station,44.0066804139277,-106.098043787576,"{""type"":""Point"",""coordinates"":[-106.098043787576,44.0066804139277]}",Petroleum and Natural Gas Systems,19719.776
+Jaq Compressor Station,44.00668041,-106.0980438,"{""type"":""Point"",""coordinates"":[-106.098043787576,44.0066804139277]}",Petroleum and Natural Gas Systems,19719.776
 Jarvis Compressor Station,32.914208,-97.401489,"{""type"":""Point"",""coordinates"":[-97.401489,32.914208]}",Petroleum and Natural Gas Systems,66493.516
 Jarvisville Compressor Station,39.239736,-80.467284,"{""type"":""Point"",""coordinates"":[-80.467284,39.239736]}",Petroleum and Natural Gas Systems,66895.148
 Jasper County Generating Facility,32.3592,-81.1236,"{""type"":""Point"",""coordinates"":[-81.1236,32.3592]}",Power Plants,2115665.43
@@ -3648,7 +3648,7 @@ LHOIST NORTH AMERICA OF VIRGINIA INC,37.3828,-80.6625,"{""type"":""Point"",""coo
 LIBBEY GLASS INC,32.469444,-93.799444,"{""type"":""Point"",""coordinates"":[-93.799444,32.469444]}",Minerals,63609.204
 LIBERTY LANDFILL,40.883714,-86.704524,"{""type"":""Point"",""coordinates"":[-86.704524,40.883714]}",Waste,158441.344
 LILLY DEL CARIBE INC CAROLIN A,18.381358,-65.942127,"{""type"":""Point"",""coordinates"":[-65.942127,18.381358]}",Chemicals,22933.956
-LINAM RANCH GAS PLANT,32.6953,-103.2853,"{""type"":""Point"",""coordinates"":[-103.2853,32.6953]}","Injection of CO2,Petroleum and Natural Gas Systems,Suppliers of CO2",287961.61773
+LINAM RANCH GAS PLANT,32.6953,-103.2853,"{""type"":""Point"",""coordinates"":[-103.2853,32.6953]}","Injection of CO2,Petroleum and Natural Gas Systems,Suppliers of CO2",287961.6177
 LINCOLN COUNTY LANDFILL,35.43008,-81.35393,"{""type"":""Point"",""coordinates"":[-81.35393,35.43008]}",Waste,45034
 LINCOLN ELECTRIC CO *,41.58586,-81.5196,"{""type"":""Point"",""coordinates"":[-81.5196,41.58586]}",Other,27519.496
 LINCOLNLAND AGRI-ENERGY LLC,39.00429,-87.63132,"{""type"":""Point"",""coordinates"":[-87.63132,39.00429]}","Other,Waste",75500.716
@@ -3664,7 +3664,7 @@ LINCOLNWAY ENERGY LLC,42.024167,-93.511389,"{""type"":""Point"",""coordinates"":
 "LINDE GAS NORTH AMERICA LLC, TOLEDO PLANT",41.636578,-83.495172,"{""type"":""Point"",""coordinates"":[-83.495172,41.636578]}",Chemicals,476351.7
 LINDE LLC CORTEZ PLANT,37.327457,-109.017397,"{""type"":""Point"",""coordinates"":[-109.017397,37.327457]}","Chemicals,Suppliers of CO2",915.286
 LINDEN CITY SLF,40.6029,-74.2456,"{""type"":""Point"",""coordinates"":[-74.2456,40.6029]}",Waste,20522.75
-LINEAR TECHNOLOGY CORP,45.598844,-122.45232,"{""type"":""Point"",""coordinates"":[-122.45232,45.598844]}",Other,33621.563185
+LINEAR TECHNOLOGY CORP,45.598844,-122.45232,"{""type"":""Point"",""coordinates"":[-122.45232,45.598844]}",Other,33621.56319
 LINWOOD MINING & MINERALS CORPORATION,41.46352,-90.68497,"{""type"":""Point"",""coordinates"":[-90.68497,41.46352]}",Minerals,262779.034
 LION OIL CO-EL DORADO REFINERY,33.200091,-92.675095,"{""type"":""Point"",""coordinates"":[-92.675095,33.200091]}","Chemicals,Petroleum Product Suppliers,Refineries",530925.994
 LITTLE DIXIE LANDFILL,32.410444,-90.24325,"{""type"":""Point"",""coordinates"":[-90.24325,32.410444]}",Waste,72386.05
@@ -3768,7 +3768,7 @@ Lena Road Class I Landfill,27.469638,-82.458781,"{""type"":""Point"",""coordinat
 Lenoir County Landfill,35.29436,-77.71288,"{""type"":""Point"",""coordinates"":[-77.71288,35.29436]}",Waste,33769.25
 Lenzing Fibers Inc.,30.960932,-88.024909,"{""type"":""Point"",""coordinates"":[-88.024909,30.960932]}",Other,66570
 Leon County Landfill,30.422634,-84.149884,"{""type"":""Point"",""coordinates"":[-84.149884,30.422634]}",Waste,73111.5
-Leon Creek,29.3511,-98.5753,"{""type"":""Point"",""coordinates"":[-98.5753,29.3511]}",Power Plants,23671.1399236
+Leon Creek,29.3511,-98.5753,"{""type"":""Point"",""coordinates"":[-98.5753,29.3511]}",Power Plants,23671.13992
 Leprino Foods - Lemoore West,36.299428,-119.816072,"{""type"":""Point"",""coordinates"":[-119.816072,36.299428]}",Other,49570.064
 Leprino Foods Roswell,33.32607,-104.48342,"{""type"":""Point"",""coordinates"":[-104.48342,33.32607]}",Other,37977.756
 "Leprino Foods, Greeley",40.416952,-104.675853,"{""type"":""Point"",""coordinates"":[-104.675853,40.416952]}",Other,38254.456
@@ -4053,7 +4053,7 @@ Macksville Compressor Station,,,,Petroleum and Natural Gas Systems,25791.876
 Macland Disposal Center Commercial and Industrial Landfill,30.50583,-88.5328,"{""type"":""Point"",""coordinates"":[-88.5328,30.50583]}",Waste,101736.75
 Macon Bibb Walker Road MSWL,32.822514,-83.618969,"{""type"":""Point"",""coordinates"":[-83.618969,32.822514]}",Waste,46223
 Macon LNG,32.896329,-83.51389,"{""type"":""Point"",""coordinates"":[-83.51389,32.896329]}","Other,Petroleum and Natural Gas Systems",30077.686
-"Mad Dog. MMS Platform ID 02481, Complex ID 1215-1",27.1886444444,-90.2687475,"{""type"":""Point"",""coordinates"":[-90.2687475,27.1886444444]}",Petroleum and Natural Gas Systems,107290.356
+"Mad Dog. MMS Platform ID 02481, Complex ID 1215-1",27.18864444,-90.2687475,"{""type"":""Point"",""coordinates"":[-90.2687475,27.1886444444]}",Petroleum and Natural Gas Systems,107290.356
 Maddox,32.7131,-103.31,"{""type"":""Point"",""coordinates"":[-103.31,32.7131]}",Power Plants,231403.892
 Madison Generating Station,39.4522,-84.465,"{""type"":""Point"",""coordinates"":[-84.465,39.4522]}",Power Plants,220904.984
 Magic Valley Generating Station,26.3403,-98.19,"{""type"":""Point"",""coordinates"":[-98.19,26.3403]}",Power Plants,1255757.096
@@ -4075,7 +4075,7 @@ Majorsville Station,39.96921,-80.53459,"{""type"":""Point"",""coordinates"":[-80
 Mako CPF-1,35.48919,-91.77598,"{""type"":""Point"",""coordinates"":[-91.77598,35.48919]}",Petroleum and Natural Gas Systems,49984.812
 "Malaga Power, LLC",36.6894,-119.7399,"{""type"":""Point"",""coordinates"":[-119.7399,36.6894]}",Power Plants,55825.044
 Malburg Generating Station,33.9983,-118.2219,"{""type"":""Point"",""coordinates"":[-118.2219,33.9983]}",Power Plants,253441.658
-Malibu-Surfer Compressor Station,44.1310854059801,-106.002468696258,"{""type"":""Point"",""coordinates"":[-106.002468696258,44.1310854059801]}",Petroleum and Natural Gas Systems,11347.708
+Malibu-Surfer Compressor Station,44.13108541,-106.0024687,"{""type"":""Point"",""coordinates"":[-106.002468696258,44.1310854059801]}",Petroleum and Natural Gas Systems,11347.708
 Maljamar Gas Plant,32.813792,-103.771877,"{""type"":""Point"",""coordinates"":[-103.771877,32.813792]}","Injection of CO2,Petroleum and Natural Gas Systems",89522.878
 Mallet CO2 Recovery Plant,33.46028,-102.56333,"{""type"":""Point"",""coordinates"":[-102.56333,33.46028]}",Petroleum and Natural Gas Systems,140169.794
 Malteurop North America Inc,47.535981,-111.412452,"{""type"":""Point"",""coordinates"":[-111.412452,47.535981]}",Other,39163.652
@@ -4153,7 +4153,7 @@ McWilliams,31.4001,-86.4767,"{""type"":""Point"",""coordinates"":[-86.4767,31.40
 Mead Compressor Station,40.18097,-104.871885,"{""type"":""Point"",""coordinates"":[-104.871885,40.18097]}",Petroleum and Natural Gas Systems,25692.104
 Mecklenburg County Landfill,36.683456,-78.315102,"{""type"":""Point"",""coordinates"":[-78.315102,36.683456]}",Waste,21272.25
 Mecklenburg Power Station,36.6009,-78.53,"{""type"":""Point"",""coordinates"":[-78.53,36.6009]}",Power Plants,441125.936
-Medicine Bow Treating Facility,42.787245348167,-105.619030878822,"{""type"":""Point"",""coordinates"":[-105.619030878822,42.787245348167]}",Petroleum and Natural Gas Systems,143526.57
+Medicine Bow Treating Facility,42.78724535,-105.6190309,"{""type"":""Point"",""coordinates"":[-105.619030878822,42.787245348167]}",Petroleum and Natural Gas Systems,143526.57
 Medley Landfill,25.85784,-80.350826,"{""type"":""Point"",""coordinates"":[-80.350826,25.85784]}",Waste,110661
 Medusa,28.3944,-89.456,"{""type"":""Point"",""coordinates"":[-89.456,28.3944]}",Petroleum and Natural Gas Systems,49163.028
 Medway Station,42.1364,-71.4478,"{""type"":""Point"",""coordinates"":[-71.4478,42.1364]}",Power Plants,4984.82
@@ -4185,8 +4185,8 @@ Michigan Power Limited Partnership,43.94,-86.4247,"{""type"":""Point"",""coordin
 "Michigan Seamless Tube, LLC",42.45783,-83.65889,"{""type"":""Point"",""coordinates"":[-83.65889,42.45783]}",Metals,16110.84
 Michoud,30.0081,-89.9372,"{""type"":""Point"",""coordinates"":[-89.9372,30.0081]}",Power Plants,1015635.836
 Micrel LLC.,37.40166,-121.8954,"{""type"":""Point"",""coordinates"":[-121.8954,37.40166]}",Other,21236.315
-Microchip Technology Inc.,33.41663,-111.96953,"{""type"":""Point"",""coordinates"":[-111.96953,33.41663]}",Other,79861.250184
-"Micron Technology, Inc.",38.74876,-77.51142,"{""type"":""Point"",""coordinates"":[-77.51142,38.74876]}",Other,280139.3887391
+Microchip Technology Inc.,33.41663,-111.96953,"{""type"":""Point"",""coordinates"":[-111.96953,33.41663]}",Other,79861.25018
+"Micron Technology, Inc.",38.74876,-77.51142,"{""type"":""Point"",""coordinates"":[-77.51142,38.74876]}",Other,280139.3887
 Mid American Steel & Wire,34.07091,-96.75503,"{""type"":""Point"",""coordinates"":[-96.75503,34.07091]}",Metals,35643.308
 Mid Set Cogeneration Facility,35.194,-119.57092,"{""type"":""Point"",""coordinates"":[-119.57092,35.194]}",Power Plants,205654.388
 Mid-Connecticut Resources Recovery Facility,41.7494,-72.6536,"{""type"":""Point"",""coordinates"":[-72.6536,41.7494]}",Waste,232727.904
@@ -4247,7 +4247,7 @@ Mohegan Tribe of Indians of Connecticut,41.490761,-72.099052,"{""type"":""Point"
 "Molycorp Minerals, LLC - Mountain Pass Mine",35.47313,-115.528419,"{""type"":""Point"",""coordinates"":[-115.528419,35.47313]}",Other,62680.414
 Momentive Performance Materials,42.8158,-73.6728,"{""type"":""Point"",""coordinates"":[-73.6728,42.8158]}","Other,Waste",126818.776
 Monarch Hill,26.28884,-80.16458,"{""type"":""Point"",""coordinates"":[-80.16458,26.28884]}",Waste,180930.706
-"Monarch West, LLC Barber Creek Compressor Station",44.169368,-105.89074612,"{""type"":""Point"",""coordinates"":[-105.89074612,44.169368]}",Petroleum and Natural Gas Systems,8828.516
+"Monarch West, LLC Barber Creek Compressor Station",44.169368,-105.8907461,"{""type"":""Point"",""coordinates"":[-105.89074612,44.169368]}",Petroleum and Natural Gas Systems,8828.516
 Mondelez Global LLC,41.759433,-87.704752,"{""type"":""Point"",""coordinates"":[-87.704752,41.759433]}",Other,22221.316
 "Mondi Bags USA, LLC",34.2656,-92.0261,"{""type"":""Point"",""coordinates"":[-92.0261,34.2656]}",Pulp and Paper,53865.274
 Monongalia County Mine,39.7634,-80.2822,"{""type"":""Point"",""coordinates"":[-80.2822,39.7634]}",Other,1595365.59
@@ -4502,13 +4502,13 @@ NUCOR STEEL SEATTLE INC,47.569331,-122.367332,"{""type"":""Point"",""coordinates
 NUCOR STEEL-TEXAS,31.354802,-96.165199,"{""type"":""Point"",""coordinates"":[-96.165199,31.354802]}",Metals,134911.336
 NUCOR-YAMATO STEEL CO,35.901866,-89.775643,"{""type"":""Point"",""coordinates"":[-89.775643,35.901866]}",Metals,412583.114
 NUGEN ENERGY LLC,43.432639,-97.26088,"{""type"":""Point"",""coordinates"":[-97.26088,43.432639]}","Other,Waste",160065.796
-NXP Semiconductors - EB site,30.27065,-97.66924,"{""type"":""Point"",""coordinates"":[-97.66924,30.27065]}",Other,84015.085742
-NXP Semiconductors - OH site,30.23943,-97.86707,"{""type"":""Point"",""coordinates"":[-97.86707,30.23943]}",Other,168390.15149
-NXP Semiconductors Chandler Site,33.32598,-111.86168,"{""type"":""Point"",""coordinates"":[-111.86168,33.32598]}",Other,123309.532868
+NXP Semiconductors - EB site,30.27065,-97.66924,"{""type"":""Point"",""coordinates"":[-97.66924,30.27065]}",Other,84015.08574
+NXP Semiconductors - OH site,30.23943,-97.86707,"{""type"":""Point"",""coordinates"":[-97.86707,30.23943]}",Other,168390.1515
+NXP Semiconductors Chandler Site,33.32598,-111.86168,"{""type"":""Point"",""coordinates"":[-111.86168,33.32598]}",Other,123309.5329
 NYC-DOC Rikerâs Island,40.789585,-73.884265,"{""type"":""Point"",""coordinates"":[-73.884265,40.789585]}",Other,70939.268
 NYS OGS SHERIDAN STEAM PLANT,42.654658,-73.753874,"{""type"":""Point"",""coordinates"":[-73.753874,42.654658]}",Other,79196.93
 Nacogdoches Power LLC,31.8326,-94.9006,"{""type"":""Point"",""coordinates"":[-94.9006,31.8326]}",Power Plants,1765.504
-"Nakika, MMS Platform ID 02481, Complex ID 1001-1",28.521145,-88.2887891667,"{""type"":""Point"",""coordinates"":[-88.2887891667,28.521145]}",Petroleum and Natural Gas Systems,162265.646
+"Nakika, MMS Platform ID 02481, Complex ID 1001-1",28.521145,-88.28878917,"{""type"":""Point"",""coordinates"":[-88.2887891667,28.521145]}",Petroleum and Natural Gas Systems,162265.646
 "Nansen Spar, East Breaks 602 Platform",27.3671,-93.5323,"{""type"":""Point"",""coordinates"":[-93.5323,27.3671]}",Petroleum and Natural Gas Systems,83433.93
 Naples Landfill,26.165868,-81.657891,"{""type"":""Point"",""coordinates"":[-81.657891,26.165868]}",Waste,20349.092
 Narrows Generating Station,40.6486,-74.0209,"{""type"":""Point"",""coordinates"":[-74.0209,40.6486]}",Power Plants,57026.622
@@ -4571,7 +4571,7 @@ Newcastle Gas Plant,43.63759,-104.54051,"{""type"":""Point"",""coordinates"":[-1
 Newington,43.0974,-70.7834,"{""type"":""Point"",""coordinates"":[-70.7834,43.0974]}",Power Plants,120603.91
 Newman,31.9858,-106.4322,"{""type"":""Point"",""coordinates"":[-106.4322,31.9858]}",Power Plants,1433052.04
 Newman,34.97363,-95.99504,"{""type"":""Point"",""coordinates"":[-95.99504,34.97363]}",Petroleum and Natural Gas Systems,27682.496
-Newport Fab LLC (dba TowerJazz),33.66196,-117.85845,"{""type"":""Point"",""coordinates"":[-117.85845,33.66196]}",Other,121614.900009
+Newport Fab LLC (dba TowerJazz),33.66196,-117.85845,"{""type"":""Point"",""coordinates"":[-117.85845,33.66196]}",Other,121614.9
 Newport-Laguna Compressor Station,44.016,-105.9864,"{""type"":""Point"",""coordinates"":[-105.9864,44.016]}",Petroleum and Natural Gas Systems,16755.736
 Newton,38.9361,-88.2778,"{""type"":""Point"",""coordinates"":[-88.2778,38.9361]}",Power Plants,4832734.816
 Newton County Landfill,30.342033,-93.848444,"{""type"":""Point"",""coordinates"":[-93.848444,30.342033]}",Waste,113258.25
@@ -4600,7 +4600,7 @@ North American Hoganas,40.192646,-78.933994,"{""type"":""Point"",""coordinates""
 North American Stainless,38.727778,-85.072222,"{""type"":""Point"",""coordinates"":[-85.072222,38.727778]}",Metals,286563.996
 North Appleby Compressor Station,31.805175,-94.526561,"{""type"":""Point"",""coordinates"":[-94.526561,31.805175]}",Petroleum and Natural Gas Systems,18134.368
 North Baja Ehrenberg CS,33.60055,-114.529539,"{""type"":""Point"",""coordinates"":[-114.529539,33.60055]}",Petroleum and Natural Gas Systems,35197.422
-North Britt,35.55046944,-100.10719166,"{""type"":""Point"",""coordinates"":[-100.10719166,35.55046944]}",Petroleum and Natural Gas Systems,28034.444
+North Britt,35.55046944,-100.1071917,"{""type"":""Point"",""coordinates"":[-100.10719166,35.55046944]}",Petroleum and Natural Gas Systems,28034.444
 North Canton Compressor Station,39.397826,-80.690161,"{""type"":""Point"",""coordinates"":[-80.690161,39.397826]}",Petroleum and Natural Gas Systems,39311.152
 North Chicago Facility,42.332222,-87.837571,"{""type"":""Point"",""coordinates"":[-87.837571,42.332222]}",Chemicals,74157.82
 North DeSoto Central Facility,32.240769,-93.654867,"{""type"":""Point"",""coordinates"":[-93.654867,32.240769]}",Petroleum and Natural Gas Systems,345635.032
@@ -4702,8 +4702,8 @@ OLMSTED COUNTY - KALMAR LANDFILL,44.043444,-92.583806,"{""type"":""Point"",""coo
 OLMSTED WASTE-TO-ENERGY FACILITY,44.026536,-92.4291,"{""type"":""Point"",""coordinates"":[-92.4291,44.026536]}",Waste,56798.704
 OLS ENERGY CHINO,33.989444,-117.681111,"{""type"":""Point"",""coordinates"":[-117.681111,33.989444]}",Power Plants,106767.748
 OLYMPIC VIEW SANITARY LANDFILL INC,47.504528,-122.780241,"{""type"":""Point"",""coordinates"":[-122.780241,47.504528]}",Waste,979.75
-ON Semiconductor,42.866748,-112.414601,"{""type"":""Point"",""coordinates"":[-112.414601,42.866748]}",Other,28605.440107
-ON Semiconductor,45.52586,-122.42398,"{""type"":""Point"",""coordinates"":[-122.42398,45.52586]}",Other,93912.141788
+ON Semiconductor,42.866748,-112.414601,"{""type"":""Point"",""coordinates"":[-112.414601,42.866748]}",Other,28605.44011
+ON Semiconductor,45.52586,-122.42398,"{""type"":""Point"",""coordinates"":[-122.42398,45.52586]}",Other,93912.14179
 ONE EARTH ENERGY LLC,40.46872,-88.39593,"{""type"":""Point"",""coordinates"":[-88.39593,40.46872]}","Other,Waste",170579.85
 ONEOK Bushton Plant,38.496875,-98.418422,"{""type"":""Point"",""coordinates"":[-98.418422,38.496875]}","Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",252005.112
 ONONDAGA CO RESOURCE RECOVERY FACILITY,43.004785,-76.11473,"{""type"":""Point"",""coordinates"":[-76.11473,43.004785]}",Waste,144473.594
@@ -4909,7 +4909,7 @@ PETRO STAR INC NORTH POLE REFINERY,64.735075,-147.344709,"{""type"":""Point"",""
 PETRO STAR VALDEZ REFINERY,61.083809,-146.250842,"{""type"":""Point"",""coordinates"":[-146.250842,61.083809]}","Chemicals,Petroleum Product Suppliers,Refineries",80653.724
 PG&E BURNEY COMPRESSOR STATION,40.884043,-121.658534,"{""type"":""Point"",""coordinates"":[-121.658534,40.884043]}",Petroleum and Natural Gas Systems,55291.046
 PG&E COLUSA GENERATING STATION,39.3648,-122.268,"{""type"":""Point"",""coordinates"":[-122.268,39.3648]}",Power Plants,1382997.704
-PG&E DELEVAN COMPRESSOR STATION,39.3649675683,-122.263297376,"{""type"":""Point"",""coordinates"":[-122.263297376,39.3649675683]}",Petroleum and Natural Gas Systems,40282.562
+PG&E DELEVAN COMPRESSOR STATION,39.36496757,-122.2632974,"{""type"":""Point"",""coordinates"":[-122.263297376,39.3649675683]}",Petroleum and Natural Gas Systems,40282.562
 PG&E GATEWAY GENERATING STATION,38.0167,-121.7592,"{""type"":""Point"",""coordinates"":[-121.7592,38.0167]}",Power Plants,1305981.612
 PG&E GERBER COMPRESSOR STATION,40.069493,-122.213818,"{""type"":""Point"",""coordinates"":[-122.213818,40.069493]}",Petroleum and Natural Gas Systems,57538.94
 PG&E HINKLEY COMPRESSOR STATION,34.902694,-117.160594,"{""type"":""Point"",""coordinates"":[-117.160594,34.902694]}",Petroleum and Natural Gas Systems,87334.378
@@ -5163,9 +5163,9 @@ Plum Creek,48.37339,-114.19732,"{""type"":""Point"",""coordinates"":[-114.19732,
 Plum Point Energy Station,35.6626,-89.9469,"{""type"":""Point"",""coordinates"":[-89.9469,35.6626]}",Power Plants,3835772.048
 Plymouth Energy LLC,42.732855,-96.252702,"{""type"":""Point"",""coordinates"":[-96.252702,42.732855]}",Other,76616.012
 "Pocahontas Coal Company, LLC - Affinity Mine",37.70535,-81.226891,"{""type"":""Point"",""coordinates"":[-81.226891,37.70535]}",Other,159650
-Polar Semiconductor LLC,44.85312,-93.2301,"{""type"":""Point"",""coordinates"":[-93.2301,44.85312]}",Other,86092.041137
+Polar Semiconductor LLC,44.85312,-93.2301,"{""type"":""Point"",""coordinates"":[-93.2301,44.85312]}",Other,86092.04114
 Poletti 500 MW CC,40.7881,-73.9056,"{""type"":""Point"",""coordinates"":[-73.9056,40.7881]}",Power Plants,1171231.77
-Polk,27.7286,-81.9897,"{""type"":""Point"",""coordinates"":[-81.9897,27.7286]}",Power Plants,1364845.61601098
+Polk,27.7286,-81.9897,"{""type"":""Point"",""coordinates"":[-81.9897,27.7286]}",Power Plants,1364845.616
 Polk County - North Central Landfill,28.012621,-81.841865,"{""type"":""Point"",""coordinates"":[-81.841865,28.012621]}",Waste,344931.598
 Ponca,36.7205,-97.0868,"{""type"":""Point"",""coordinates"":[-97.0868,36.7205]}",Power Plants,13921.796
 Ponca City Landfill,36.637594,-97.114139,"{""type"":""Point"",""coordinates"":[-97.114139,36.637594]}",Waste,41836.5
@@ -5223,7 +5223,7 @@ Pump Canyon Compreesor Station,37.045517,-107.679114,"{""type"":""Point"",""coor
 Pump Canyon Compressor Station,36.794833,-107.733067,"{""type"":""Point"",""coordinates"":[-107.733067,36.794833]}",Petroleum and Natural Gas Systems,17832.884
 Pump Mesa Central Delivery Point,36.8924,-107.6444,"{""type"":""Point"",""coordinates"":[-107.6444,36.8924]}",Petroleum and Natural Gas Systems,19275.428
 Pumping Platform Complex Grand Isle 59,,,,Other,42334.766
-Pumpkin-Bruno Compressor Station,44.0246783226879,-106.116606268085,"{""type"":""Point"",""coordinates"":[-106.116606268085,44.0246783226879]}",Petroleum and Natural Gas Systems,16778.636
+Pumpkin-Bruno Compressor Station,44.02467832,-106.1166063,"{""type"":""Point"",""coordinates"":[-106.116606268085,44.0246783226879]}",Petroleum and Natural Gas Systems,16778.636
 Purdue University-Wade Utility,40.4172,-86.9117,"{""type"":""Point"",""coordinates"":[-86.9117,40.4172]}",Other,305962.134
 Putnam Compressor Station,41.75671,-76.838304,"{""type"":""Point"",""coordinates"":[-76.838304,41.75671]}",Petroleum and Natural Gas Systems,35249.368
 Pyramid Generating Station,32.2363,-108.5494,"{""type"":""Point"",""coordinates"":[-108.5494,32.2363]}",Power Plants,26163.488
@@ -5416,7 +5416,7 @@ Ridge Amine Plant,31.121917,-96.31281,"{""type"":""Point"",""coordinates"":[-96.
 Riley Ridge Gas Plant,42.5011,-110.4228,"{""type"":""Point"",""coordinates"":[-110.4228,42.5011]}","Injection of CO2,Petroleum and Natural Gas Systems,Suppliers of CO2",4859.046
 Rio Bravo Generating Station,35.0442,-106.67,"{""type"":""Point"",""coordinates"":[-106.67,35.0442]}",Power Plants,47449.308
 Rio Grande,31.8047,-106.5472,"{""type"":""Point"",""coordinates"":[-106.5472,31.8047]}",Power Plants,463453.732
-"Rio Nogales Power Project, LP",29.5932,-97.9724,"{""type"":""Point"",""coordinates"":[-97.9724,29.5932]}",Power Plants,1354702.9019832
+"Rio Nogales Power Project, LP",29.5932,-97.9724,"{""type"":""Point"",""coordinates"":[-97.9724,29.5932]}",Power Plants,1354702.902
 Rio Suites Hotel & Casino,36.11529,-115.18709,"{""type"":""Point"",""coordinates"":[-115.18709,36.11529]}",Other,10491.66
 Rio Vista Compressor Station,32.271951,-97.449124,"{""type"":""Point"",""coordinates"":[-97.449124,32.271951]}",Petroleum and Natural Gas Systems,17046.636
 Ripon Generation Station,37.7315,-121.116,"{""type"":""Point"",""coordinates"":[-121.116,37.7315]}",Power Plants,13872.648
@@ -5787,7 +5787,7 @@ Sam Bertron,29.7268,-95.06,"{""type"":""Point"",""coordinates"":[-95.06,29.7268]
 Sam Seymour,29.9172,-96.7506,"{""type"":""Point"",""coordinates"":[-96.7506,29.9172]}",Power Plants,9337982.004
 Sambrito Compressor Station,37.0445,-107.4935,"{""type"":""Point"",""coordinates"":[-107.4935,37.0445]}",Petroleum and Natural Gas Systems,42844.788
 Sampson County Landfill,34.96375,-78.448,"{""type"":""Point"",""coordinates"":[-78.448,34.96375]}",Waste,29833
-Samsung Austin Semiconductor,30.375,-97.631386,"{""type"":""Point"",""coordinates"":[-97.631386,30.375]}",Other,516674.371213
+Samsung Austin Semiconductor,30.375,-97.631386,"{""type"":""Point"",""coordinates"":[-97.631386,30.375]}",Other,516674.3712
 San Ardo,35.954669,-120.863987,"{""type"":""Point"",""coordinates"":[-120.863987,35.954669]}",Petroleum and Natural Gas Systems,426549.944
 San Bois Treating Facility,34.993852,-95.051024,"{""type"":""Point"",""coordinates"":[-95.051024,34.993852]}",Petroleum and Natural Gas Systems,22977.132
 San Diego Gas and Electric -Moreno Station,33.90891,-117.121008,"{""type"":""Point"",""coordinates"":[-117.121008,33.90891]}",Petroleum and Natural Gas Systems,20104.732
@@ -5986,7 +5986,7 @@ Southwest Greer Lake CPF-2,35.471223,-92.354589,"{""type"":""Point"",""coordinat
 Southwest Greer Lake CPF-3,35.461964,-92.424614,"{""type"":""Point"",""coordinates"":[-92.424614,35.461964]}",Petroleum and Natural Gas Systems,21914.968
 Southwestern,35.1009,-98.3524,"{""type"":""Point"",""coordinates"":[-98.3524,35.1009]}",Power Plants,247686.732
 Sowega Power Project,31.3869,-84.0814,"{""type"":""Point"",""coordinates"":[-84.0814,31.3869]}",Power Plants,62994.314
-Spansion LLC,30.2175,-97.723056,"{""type"":""Point"",""coordinates"":[-97.723056,30.2175]}",Other,49387.363226
+Spansion LLC,30.2175,-97.723056,"{""type"":""Point"",""coordinates"":[-97.723056,30.2175]}",Other,49387.36323
 Spartan Light Metal Products,39.15423,-91.91414,"{""type"":""Point"",""coordinates"":[-91.91414,39.15423]}",Metals,16404.996
 "Spartan Light Metal Products, Inc.",38.12057,-89.694399,"{""type"":""Point"",""coordinates"":[-89.694399,38.12057]}",Metals,148971.476
 Special Metals Corporation,42.469,-79.345,"{""type"":""Point"",""coordinates"":[-79.345,42.469]}",Other,34286.52
@@ -6006,7 +6006,7 @@ St. Francis Power Plant,36.5852,-90.1779,"{""type"":""Point"",""coordinates"":[-
 St. Johns River Power,30.4311,-81.5508,"{""type"":""Point"",""coordinates"":[-81.5508,30.4311]}",Power Plants,5540835.39
 St. Nicholas Cogeneration Project,40.8222,-76.1736,"{""type"":""Point"",""coordinates"":[-76.1736,40.8222]}",Power Plants,1155712.984
 "St. Paul Park Refining Company, LLC",44.850583,-93.002139,"{""type"":""Point"",""coordinates"":[-93.002139,44.850583]}","Chemicals,Petroleum Product Suppliers,Refineries",848232.968
-St. Vrain Compressor Station,40.23199641,-104.88326806,"{""type"":""Point"",""coordinates"":[-104.88326806,40.23199641]}",Petroleum and Natural Gas Systems,27731.796
+St. Vrain Compressor Station,40.23199641,-104.8832681,"{""type"":""Point"",""coordinates"":[-104.88326806,40.23199641]}",Petroleum and Natural Gas Systems,27731.796
 Stagecoach Junction Compressor Station,41.707908,-76.207682,"{""type"":""Point"",""coordinates"":[-76.207682,41.707908]}",Petroleum and Natural Gas Systems,24159.16
 "Standard Forged Products, LLC - McKees Rocks",40.4819,-80.06501,"{""type"":""Point"",""coordinates"":[-80.06501,40.4819]}",Other,30525.936
 Stanley Worthey CGF & OHF,28.154178,-99.684222,"{""type"":""Point"",""coordinates"":[-99.684222,28.154178]}",Petroleum and Natural Gas Systems,70595.884
@@ -6134,7 +6134,7 @@ TEST CDX PRODUCTION,38.92212,-77.23346,"{""type"":""Point"",""coordinates"":[-77
 TEXAS CITY REFINERY,29.376111,-94.908055,"{""type"":""Point"",""coordinates"":[-94.908055,29.376111]}","Petroleum Product Suppliers,Refineries",780934.704
 TEXAS DISPOSAL SYSTEMS LANDFILL,30.09903,-97.75228,"{""type"":""Point"",""coordinates"":[-97.75228,30.09903]}",Waste,420128
 TEXAS GAS TRANSMISSION - GREENVILLE STATION,33.392476,-91.017584,"{""type"":""Point"",""coordinates"":[-91.017584,33.392476]}",Petroleum and Natural Gas Systems,93196.418
-TEXAS INSTRUMENTS NORTH CAMPUS,32.93311,-96.7537,"{""type"":""Point"",""coordinates"":[-96.7537,32.93311]}",Other,689201.8205923
+TEXAS INSTRUMENTS NORTH CAMPUS,32.93311,-96.7537,"{""type"":""Point"",""coordinates"":[-96.7537,32.93311]}",Other,689201.8206
 TEXAS LEHIGH CEMENT COMPANY LP,30.0536,-97.8572,"{""type"":""Point"",""coordinates"":[-97.8572,30.0536]}",Minerals,981784.008
 TEXAS MEDICAL CENTER CENTRAL HEATING AND COOLING SERVICES CORPORATION,29.703682,-95.396186,"{""type"":""Point"",""coordinates"":[-95.396186,29.703682]}",Other,90952.554
 TEXAS TECH UNIVERSITY,33.59223,-101.880084,"{""type"":""Point"",""coordinates"":[-101.880084,33.59223]}",Other,66681.048
@@ -6279,7 +6279,7 @@ TRUNKLINE GAS CO - NORTH JUDSON,41.20649,-86.65885,"{""type"":""Point"",""coordi
 TRUNKLINE GAS CO - TUSCOLA,39.79036,-88.32454,"{""type"":""Point"",""coordinates"":[-88.32454,39.79036]}",Petroleum and Natural Gas Systems,34253.252
 TRUSTEES OF PRINCETON UNIVERSITY,40.354641,-74.646744,"{""type"":""Point"",""coordinates"":[-74.646744,40.354641]}",Other,81702.41
 TS Power Plant,40.7458,-116.5297,"{""type"":""Point"",""coordinates"":[-116.5297,40.7458]}",Power Plants,923303.004
-TSI SEMICONDUCTORS LLC,38.77887,-121.31073,"{""type"":""Point"",""coordinates"":[-121.31073,38.77887]}",Other,51234.092013
+TSI SEMICONDUCTORS LLC,38.77887,-121.31073,"{""type"":""Point"",""coordinates"":[-121.31073,38.77887]}",Other,51234.09201
 TULLYTOWN RESOURCE RECOVER FACILITY (TRRF) LANDFILL,40.133394,-74.804474,"{""type"":""Point"",""coordinates"":[-74.804474,40.133394]}",Waste,101259.926
 TWIN BRIDGES RDF,39.7507,-86.5006,"{""type"":""Point"",""coordinates"":[-86.5006,39.7507]}",Waste,85182.386
 TWIN CHIMNEYS LANDFILL,34.5388,-82.3111,"{""type"":""Point"",""coordinates"":[-82.3111,34.5388]}",Waste,166157.75
@@ -6324,7 +6324,7 @@ Targa Midstream Services LLC - Big Lake Gas Plant,30.115221,-93.282701,"{""type"
 Targa Midstream Services LLC - Chico Gas Plant,33.305465,-97.883523,"{""type"":""Point"",""coordinates"":[-97.883523,33.305465]}","Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",212051.63
 Targa Midstream Services LLC - Eunice Gas Processing Plant,32.42615,-103.148564,"{""type"":""Point"",""coordinates"":[-103.148564,32.42615]}","Injection of CO2,Petroleum and Natural Gas Systems,Suppliers of CO2",183249.038
 Targa Midstream Services LLC - Gillis Gas Plant,30.273333,-93.156944,"{""type"":""Point"",""coordinates"":[-93.156944,30.273333]}","Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",30412.74
-Targa Midstream Services LLC - L&H Compressor Station,31.5107284988,-102.65126369,"{""type"":""Point"",""coordinates"":[-102.65126369,31.5107284988]}",Petroleum and Natural Gas Systems,20773.472
+Targa Midstream Services LLC - L&H Compressor Station,31.5107285,-102.6512637,"{""type"":""Point"",""coordinates"":[-102.65126369,31.5107284988]}",Petroleum and Natural Gas Systems,20773.472
 Targa Midstream Services LLC - Lowry Gas Processing Plant,29.7583,-95.36808,"{""type"":""Point"",""coordinates"":[-95.36808,29.7583]}",Petroleum and Natural Gas Systems,9649.748
 Targa Midstream Services LLC - Mertzon Gas Processing Plant,31.34423,-100.699752,"{""type"":""Point"",""coordinates"":[-100.699752,31.34423]}",Petroleum and Natural Gas Systems,33483.876
 Targa Midstream Services LLC - Monument Gas Processing Plant,32.610278,-103.311944,"{""type"":""Point"",""coordinates"":[-103.311944,32.610278]}","Injection of CO2,Petroleum and Natural Gas Systems,Suppliers of CO2",58793.692
@@ -6340,7 +6340,7 @@ Targa Midstream Services LLC - Sterling Gas Processing Plant,29.7583,-95.36808,"
 Targa Midstream Services LLC - Stingray Gas Plant,29.761667,-93.609722,"{""type"":""Point"",""coordinates"":[-93.609722,29.761667]}",Petroleum and Natural Gas Systems,0
 Targa Midstream Services LLC - Venice Gas Processing Plant,29.238103,-89.386139,"{""type"":""Point"",""coordinates"":[-89.386139,29.238103]}",Petroleum and Natural Gas Systems,217681.082
 Targa Midstream Services LLC - Waddell Compressor Station,31.51513611,-102.538705,"{""type"":""Point"",""coordinates"":[-102.538705,31.51513611]}",Petroleum and Natural Gas Systems,18093.532
-"Targa Midstream Services, LLC - East Chico Compressor Station",33.314599642,-97.7712378808,"{""type"":""Point"",""coordinates"":[-97.7712378808,33.314599642]}",Petroleum and Natural Gas Systems,21517.268
+"Targa Midstream Services, LLC - East Chico Compressor Station",33.31459964,-97.77123788,"{""type"":""Point"",""coordinates"":[-97.7712378808,33.314599642]}",Petroleum and Natural Gas Systems,21517.268
 "Targa Midstream Services, LLC - Mont Belvieu Complex",29.7583,-95.36808,"{""type"":""Point"",""coordinates"":[-95.36808,29.7583]}","Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",629087.164
 "Targa Midstream Services, LLC - Waggoner Compressor Station",33.29339423,-97.46272988,"{""type"":""Point"",""coordinates"":[-97.46272988,33.29339423]}",Petroleum and Natural Gas Systems,23931.16
 Tata Chemicals (Soda Ash) Partners,41.592551,-109.753909,"{""type"":""Point"",""coordinates"":[-109.753909,41.592551]}",Minerals,1410318.31
@@ -6388,8 +6388,8 @@ Texas Gas Transmission - Slaughters Station,37.509722,-87.501389,"{""type"":""Po
 Texas Gas Transmission - Youngsville Station,30.08741,-92.02953,"{""type"":""Point"",""coordinates"":[-92.02953,30.08741]}",Petroleum and Natural Gas Systems,55220.518
 Texas Instruments - Sherman,33.581596,-96.603905,"{""type"":""Point"",""coordinates"":[-96.603905,33.581596]}",Other,77511.024
 Texas Instruments Incorporated,29.647,-95.575,"{""type"":""Point"",""coordinates"":[-95.575,29.647]}",Other,87.6
-Texas Instruments Incorporated - Maine Fab,43.639846,-70.323814,"{""type"":""Point"",""coordinates"":[-70.323814,43.639846]}",Other,130417.41022
-Texas Instruments Richardson,32.999754,-96.72063,"{""type"":""Point"",""coordinates"":[-96.72063,32.999754]}",Other,90464.3986899
+Texas Instruments Incorporated - Maine Fab,43.639846,-70.323814,"{""type"":""Point"",""coordinates"":[-70.323814,43.639846]}",Other,130417.4102
+Texas Instruments Richardson,32.999754,-96.72063,"{""type"":""Point"",""coordinates"":[-96.72063,32.999754]}",Other,90464.39869
 Texas Lime Company,32.246389,-97.550828,"{""type"":""Point"",""coordinates"":[-97.550828,32.246389]}",Minerals,411274.92
 Textron Aviation/Beechcraft Division,37.6944,-97.2236,"{""type"":""Point"",""coordinates"":[-97.2236,37.6944]}",Other,25700.404
 The Children\s Hospital of Philadelphia,39.94776,-75.19391,"{""type"":""Point"",""coordinates"":[-75.19391,39.94776]}",Other,29257.392
@@ -6420,7 +6420,7 @@ Thunder Creek Gas Services Buckshot Gas Plant,42.788063,-105.613954,"{""type"":"
 Thunder Creek Gas Services Juniper Draw Main Compressor Station,44.203256,-106.219486,"{""type"":""Point"",""coordinates"":[-106.219486,44.203256]}",Petroleum and Natural Gas Systems,13244.5
 Thunder Creek Gas Services MTG Compressor Station,44.131417,-105.712904,"{""type"":""Point"",""coordinates"":[-105.712904,44.131417]}",Petroleum and Natural Gas Systems,13341.9
 Thunder Hawk,28.2672,-88.3989,"{""type"":""Point"",""coordinates"":[-88.3989,28.2672]}",Petroleum and Natural Gas Systems,55820.086
-"Thunder Horse, MMS Platform ID 02481, Complex ID 1101-1",28.1910036111,-88.4956952778,"{""type"":""Point"",""coordinates"":[-88.4956952778,28.1910036111]}",Petroleum and Natural Gas Systems,180833.212
+"Thunder Horse, MMS Platform ID 02481, Complex ID 1101-1",28.19100361,-88.49569528,"{""type"":""Point"",""coordinates"":[-88.4956952778,28.1910036111]}",Petroleum and Natural Gas Systems,180833.212
 Tichenal Compressor Station,39.18449,-80.496216,"{""type"":""Point"",""coordinates"":[-80.496216,39.18449]}",Petroleum and Natural Gas Systems,28815.392
 Tiger Bay Cogeneration Facility,27.7447,-81.85,"{""type"":""Point"",""coordinates"":[-81.85,27.7447]}",Power Plants,503283.784
 Tiger CPF-1,35.442669,-91.604995,"{""type"":""Point"",""coordinates"":[-91.604995,35.442669]}",Petroleum and Natural Gas Systems,28829.792
@@ -6451,8 +6451,8 @@ Trenton Channel,42.1236,-83.1811,"{""type"":""Point"",""coordinates"":[-83.1811,
 Tres Palacios Gas Storage Facility,28.995833,-96.142222,"{""type"":""Point"",""coordinates"":[-96.142222,28.995833]}",Petroleum and Natural Gas Systems,44731.24
 Tri-Center Naniwa Energy,39.5617,-119.5175,"{""type"":""Point"",""coordinates"":[-119.5175,39.5617]}",Power Plants,0
 Tri-County Compressor Station,39.938047,-81.530011,"{""type"":""Point"",""coordinates"":[-81.530011,39.938047]}",Petroleum and Natural Gas Systems,13208.9
-TriQuint Semiconductor,45.54041,-122.93651,"{""type"":""Point"",""coordinates"":[-122.93651,45.54041]}",Other,51010.559197
-TriQuint Semiconductor Texas L.P.,32.99954,-96.72703,"{""type"":""Point"",""coordinates"":[-96.72703,32.99954]}",Other,89175.366531
+TriQuint Semiconductor,45.54041,-122.93651,"{""type"":""Point"",""coordinates"":[-122.93651,45.54041]}",Other,51010.5592
+TriQuint Semiconductor Texas L.P.,32.99954,-96.72703,"{""type"":""Point"",""coordinates"":[-96.72703,32.99954]}",Other,89175.36653
 Trident,45.944769,-111.477076,"{""type"":""Point"",""coordinates"":[-111.477076,45.944769]}",Minerals,304320.19
 Trigen Energy - Schuylkill,39.9422,-75.1875,"{""type"":""Point"",""coordinates"":[-75.1875,39.9422]}",Power Plants,71813.452
 Trilith Compressor Station,40.855278,-80.102778,"{""type"":""Point"",""coordinates"":[-80.102778,40.855278]}",Petroleum and Natural Gas Systems,28301.944
@@ -6757,7 +6757,7 @@ Viosca Knoll VK 900,29.084538,-88.704538,"{""type"":""Point"",""coordinates"":[-
 Virginia City Hybrid Energy Center,36.9161,-82.3381,"{""type"":""Point"",""coordinates"":[-82.3381,36.9161]}",Power Plants,2727807.506
 Virginia Tech,37.23215,-80.42173,"{""type"":""Point"",""coordinates"":[-80.42173,37.23215]}",Other,108147.788
 Visalia Landfill,36.38718,-119.3897,"{""type"":""Point"",""coordinates"":[-119.3897,36.38718]}",Waste,36182
-Vishay Intertechnology,37.38405,-121.9657,"{""type"":""Point"",""coordinates"":[-121.9657,37.38405]}",Other,58476.240516
+Vishay Intertechnology,37.38405,-121.9657,"{""type"":""Point"",""coordinates"":[-121.9657,37.38405]}",Other,58476.24052
 Vollmar Compressor Station,40.14429,-104.85966,"{""type"":""Point"",""coordinates"":[-104.85966,40.14429]}",Petroleum and Natural Gas Systems,33730.672
 Vonco II Landfill,45.352493,-93.870775,"{""type"":""Point"",""coordinates"":[-93.870775,45.352493]}",Waste,123912.25
 W A Parish,29.4783,-95.6358,"{""type"":""Point"",""coordinates"":[-95.6358,29.4783]}",Power Plants,1.539704385E7
@@ -6768,7 +6768,7 @@ W I TAYLOR COUNTY LANDFILL LLC,32.44889,-84.38639,"{""type"":""Point"",""coordin
 W M W I - TIMBERLINE TRAIL RDF,45.45344,-91.362534,"{""type"":""Point"",""coordinates"":[-91.362534,45.45344]}",Waste,40859.274
 W S Lee,34.6022,-82.435,"{""type"":""Point"",""coordinates"":[-82.435,34.6022]}",Power Plants,83135.69
 "W&T Energy VI, LLC - MC 243 A (Matterhorn)",,,,Petroleum and Natural Gas Systems,23324.184
-"W&T Energy VI, LLC - VK 823 A (Virgo)",29.18192218,-88.167774376,"{""type"":""Point"",""coordinates"":[-88.167774376,29.18192218]}",Petroleum and Natural Gas Systems,16801.81
+"W&T Energy VI, LLC - VK 823 A (Virgo)",29.18192218,-88.16777438,"{""type"":""Point"",""coordinates"":[-88.167774376,29.18192218]}",Petroleum and Natural Gas Systems,16801.81
 "W&T Offshore, Inc.: EC 321 A",28.21982807,-92.79438984,"{""type"":""Point"",""coordinates"":[-92.79438984,28.21982807]}",Petroleum and Natural Gas Systems,30915.41
 WABASH VALLEY LANDFILL,40.822025,-85.800428,"{""type"":""Point"",""coordinates"":[-85.800428,40.822025]}",Waste,54665.898
 WADHAM ENERGY LP,39.10653,-122.10918,"{""type"":""Point"",""coordinates"":[-122.10918,39.10653]}",Power Plants,3226.782
@@ -6900,7 +6900,7 @@ WHITSON COMPRESSOR STATION,33.528007,-87.457407,"{""type"":""Point"",""coordinat
 "WIC Station 7950 Douglas, WY",42.787448,-105.613958,"{""type"":""Point"",""coordinates"":[-105.613958,42.787448]}",Petroleum and Natural Gas Systems,44692.65
 WIGGINS FACILITY,32.23,-93.3453,"{""type"":""Point"",""coordinates"":[-93.3453,32.23]}",Petroleum and Natural Gas Systems,5325.28
 WILCOX Compressor Station,41.5674,-75.946324,"{""type"":""Point"",""coordinates"":[-75.946324,41.5674]}",Petroleum and Natural Gas Systems,54174.496
-WILCOX GAS PLANT,29.336389,-96.679882,"{""type"":""Point"",""coordinates"":[-96.679882,29.336389]}","Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",151918.14094
+WILCOX GAS PLANT,29.336389,-96.679882,"{""type"":""Point"",""coordinates"":[-96.679882,29.336389]}","Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",151918.1409
 WILLARD CO2 SEPARATION PLANT,33.02778,-102.81972,"{""type"":""Point"",""coordinates"":[-102.81972,33.02778]}",Petroleum and Natural Gas Systems,95118.268
 WILLIAM BEAUMONT HOSPITAL,42.51419,-83.19269,"{""type"":""Point"",""coordinates"":[-83.19269,42.51419]}",Other,26906.944
 WILLIAMS COUNTY LANDFILL,41.518,-84.587,"{""type"":""Point"",""coordinates"":[-84.587,41.518]}",Waste,146030
@@ -6948,7 +6948,7 @@ WYOMING REFINING COMPANY,43.85126,-104.21486,"{""type"":""Point"",""coordinates"
 WYOMING SUGAR CO,44.00999,-107.96949,"{""type"":""Point"",""coordinates"":[-107.96949,44.00999]}",Minerals,28905.48
 Wabash River Gen Station,39.53,-87.4247,"{""type"":""Point"",""coordinates"":[-87.4247,39.53]}",Power Plants,2833340.254
 Wading River Facility,40.9569,-72.8774,"{""type"":""Point"",""coordinates"":[-72.8774,40.9569]}",Power Plants,19749.128
-WaferTech LLC,45.61962,-122.461735,"{""type"":""Point"",""coordinates"":[-122.461735,45.61962]}",Other,172724.739484
+WaferTech LLC,45.61962,-122.461735,"{""type"":""Point"",""coordinates"":[-122.461735,45.61962]}",Other,172724.7395
 Wagner Compressor Station,32.445575,-97.56806,"{""type"":""Point"",""coordinates"":[-97.56806,32.445575]}",Petroleum and Natural Gas Systems,24203.304
 Waha Gas Plant,31.159975,-103.104845,"{""type"":""Point"",""coordinates"":[-103.104845,31.159975]}","Injection of CO2,Petroleum and Natural Gas Systems,Suppliers of CO2",190164.34
 Walker Ridge 718 (JSM),26.14594,-91.153999,"{""type"":""Point"",""coordinates"":[-91.153999,26.14594]}",Petroleum and Natural Gas Systems,122109.076
@@ -7063,7 +7063,7 @@ Wheelabrator Lisbon Inc.,41.584333,-72.041602,"{""type"":""Point"",""coordinates
 Wheelabrator Portsmouth Inc.,36.807863,-76.302316,"{""type"":""Point"",""coordinates"":[-76.302316,36.807863]}",Waste,223771.918
 Wheelabrator Ridge Energy Inc.,28.0271,-81.8458,"{""type"":""Point"",""coordinates"":[-81.8458,28.0271]}",Power Plants,89550.748
 Wheelabrator Saugus Inc.,42.447211,-70.980472,"{""type"":""Point"",""coordinates"":[-70.980472,42.447211]}",Waste,166004.926
-Whiskey Draw-Jack Daniels Compressor Station,44.0940663313877,-106.229719317401,"{""type"":""Point"",""coordinates"":[-106.229719317401,44.0940663313877]}",Petroleum and Natural Gas Systems,11240.308
+Whiskey Draw-Jack Daniels Compressor Station,44.09406633,-106.2297193,"{""type"":""Point"",""coordinates"":[-106.229719317401,44.0940663313877]}",Petroleum and Natural Gas Systems,11240.308
 White Bluff,34.4236,-92.1392,"{""type"":""Point"",""coordinates"":[-92.1392,34.4236]}",Power Plants,6587001.442
 White Compressor Station,,,,Petroleum and Natural Gas Systems,50595.66
 "White County Coal, LLC",38.064816,-88.089535,"{""type"":""Point"",""coordinates"":[-88.089535,38.064816]}",Other,55579.75
@@ -7122,7 +7122,7 @@ Wygen III,44.2892,-105.3795,"{""type"":""Point"",""coordinates"":[-105.3795,44.2
 Wyman-Gordon Company,42.229565,-71.727977,"{""type"":""Point"",""coordinates"":[-71.727977,42.229565]}",Other,51939.804
 Wyodak,44.2886,-105.3847,"{""type"":""Point"",""coordinates"":[-105.3847,44.2886]}",Power Plants,3114904.764
 Wyoming 2 Mine,37.6023,-81.61,"{""type"":""Point"",""coordinates"":[-81.61,37.6023]}",Other,18067.25
-X-FAB Texas Inc.,33.629444,-101.870834,"{""type"":""Point"",""coordinates"":[-101.870834,33.629444]}",Other,56539.437576
+X-FAB Texas Inc.,33.629444,-101.870834,"{""type"":""Point"",""coordinates"":[-101.870834,33.629444]}",Other,56539.43758
 XTO - Azle Station,32.877068,-97.545294,"{""type"":""Point"",""coordinates"":[-97.545294,32.877068]}",Petroleum and Natural Gas Systems,25195.856
 XTO - Bailey Station,31.454878,-96.21636,"{""type"":""Point"",""coordinates"":[-96.21636,31.454878]}",Petroleum and Natural Gas Systems,27117.548
 XTO - Berwyn Compressor Station,34.285946,-97.073199,"{""type"":""Point"",""coordinates"":[-97.073199,34.285946]}",Petroleum and Natural Gas Systems,21416.02
